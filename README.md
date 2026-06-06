@@ -1,6 +1,6 @@
 # Research Database
 
-An Obsidian-based research knowledge base for neuroimaging, MRI/QSM methods, literature review, research records, and manuscript drafting.
+An Obsidian-based research knowledge base for literature review, research records, and manuscript drafting.
 
 This repository is organized as a working research vault: it stores paper notes imported from Zotero, structured research records, reusable writing templates, daily notes, and active manuscript workspaces.
 
